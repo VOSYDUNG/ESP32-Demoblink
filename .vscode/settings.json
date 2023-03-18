@@ -1,0 +1,16 @@
+{
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "idf.adapterTargetName": "esp32",
+    "idf.customExtraPaths": "/Users/macbook/.espressif/tools/xtensa-esp-elf-gdb/12.1_20221002/xtensa-esp-elf-gdb/bin:/Users/macbook/.espressif/tools/riscv32-esp-elf-gdb/12.1_20221002/riscv32-esp-elf-gdb/bin:/Users/macbook/.espressif/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin:/Users/macbook/.espressif/tools/xtensa-esp32s2-elf/esp-12.2.0_20230208/xtensa-esp32s2-elf/bin:/Users/macbook/.espressif/tools/xtensa-esp32s3-elf/esp-12.2.0_20230208/xtensa-esp32s3-elf/bin:/Users/macbook/.espressif/tools/riscv32-esp-elf/esp-12.2.0_20230208/riscv32-esp-elf/bin:/Users/macbook/.espressif/tools/esp32ulp-elf/2.35_20220830/esp32ulp-elf/bin:/Users/macbook/.espressif/tools/cmake/3.24.0/CMake.app/Contents/bin:/Users/macbook/.espressif/tools/openocd-esp32/v0.11.0-esp32-20221026/openocd-esp32/bin:/Users/macbook/.espressif/tools/ninja/1.10.2:/Users/macbook/.espressif/tools/esp-rom-elfs/20230113",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "/Users/macbook/.espressif/tools/openocd-esp32/v0.11.0-esp32-20221026/openocd-esp32/share/openocd/scripts",
+        "ESP_ROM_ELF_DIR": "/Users/macbook/.espressif/tools/esp-rom-elfs/20230113/"
+    },
+    "idf.espIdfPath": "/Users/macbook/esp/esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.port": "/dev/cu.iCutesM818-JL_SPP",
+    "idf.pythonBinPath": "/Users/macbook/.espressif/python_env/idf5.1_py3.11_env/bin/python",
+    "idf.toolsPath": "/Users/macbook/.espressif"
+}
